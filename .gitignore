@@ -1,0 +1,57 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+pip_log.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Machine Learning
+*.h5
+*.pth
+*.pt
+model_checkpoints/
+saved_models/
+runs/
+tensorboard/
+
+# Data
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Logs and Temporary Files
+*.log
+*.tmp
+temp/
+logs/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build/Output
+dist/
+build/
+*.out
+
+.pdf
+peft-ml2025-hw9/
