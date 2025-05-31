@@ -53,5 +53,5 @@ dist/
 build/
 *.out
 
-.pdf
+*.pdf
 peft-ml2025-hw9/
